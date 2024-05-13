@@ -1,0 +1,2 @@
+welcome tonode.js
+ i am new

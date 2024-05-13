@@ -1,0 +1,10 @@
+hi welcome
+this is code in nodejs
+how are you?
+where are you from?
+bye!!
+hi welcome
+this is code in nodejs
+how are you?
+where are you from?
+bye!!
