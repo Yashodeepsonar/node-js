@@ -1,0 +1,14 @@
+{
+  "name": "wetherapp",
+  "version": "1.0.0",
+  "description": "creating wether app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yashodeep sonar",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
